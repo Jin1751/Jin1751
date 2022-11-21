@@ -1,16 +1,14 @@
 # Hi I'm JeongDongJin 👋
 
-<p>
- <em>
-   <p>Computer engineering student at Hallym University.</p>
-   </em>
- <em>
-   <p>Living in South Korea</p>
-   </em>
-</p>
+Thanks for visiting my page!
+
+I'm computer engineering student at Hallym University.
+
+Now living in 🇰🇷 South Korea, Chuncheon
+
 
 ### My tech stack 📚
-___
+
  **Languages**
   <div>
   <img src="http://is.am/58qw"/>
