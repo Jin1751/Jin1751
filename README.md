@@ -1,5 +1,10 @@
-### Hi there 👋
+## Hi I'm JeongDongJin 👋
 
+Student in Hallym Univ.
+Living in South Korea
+
+### My tech stack
+![JAVA] (https://img.shields.io/badge/-JAVA-orange?style-for-the-badge&logo=&logoColor=ffffff)
 <!--
 **Jin1751/Jin1751** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
