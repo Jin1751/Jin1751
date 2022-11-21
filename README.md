@@ -1,15 +1,14 @@
-# Hi I'm JeongDongJin 👋
+# An-nyeong-ha-se-yo! I'm JeongDongJin 👋
 
 Thanks for visiting my page!
 
-I'm computer engineering student at Hallym University.
+You can call me Mr.Jin || just Jin.
 
-Now living in 🇰🇷 South Korea, Chuncheon
+I'm computer engineering student at Hallym University. Currently staying in South Korea 🇰🇷 , Chuncheon
 
+### What I use for programming
 
-### My tech stack 📚
-
- **Languages**
+ **📚 Languages**
   <div>
   <img src="http://is.am/58qw"/>
   <img src = "https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
@@ -17,7 +16,7 @@ Now living in 🇰🇷 South Korea, Chuncheon
   <img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
   </div>
   
- **Tools**
+ **🛠 Tools**
 <div>
   <img src = "https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity"/>
   <img src = "https://img.shields.io/badge/Android Studio-3DBD84?style=for-the-badge&logo=android&logoColor=ffffff"/>
@@ -29,7 +28,7 @@ ___
 ### Current Interest
   - VR
   - AR
-  - Android Application
+  - Android Application made by <img src = "https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=ffffff"/>
   - IOT (Internet of Things)
 
 ### Working on projects
