@@ -26,11 +26,17 @@ ___
   <img src = "https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=ffffff"/>
 </div>
 
+___
+
 ### Current Interest
   - VR
   - AR
   - Android Application
   - IOT (Internet of Things)
+
+### Current working projects
+  - AR + App : [AR Map](https://github.com/Jin1751/ARmap)
+  - IOT + App : [Plant Control](https://github.com/Jin1751/PlantControlKotlin)
 <!--
 **Jin1751/Jin1751** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
