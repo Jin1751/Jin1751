@@ -34,7 +34,7 @@ ___
   - Android Application
   - IOT (Internet of Things)
 
-### Current working projects
+### Working on projects
   - AR + App : [AR Map](https://github.com/Jin1751/ARmap)
   - IOT + App : [Plant Control](https://github.com/Jin1751/PlantControlKotlin)
 <!--
