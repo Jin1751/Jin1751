@@ -6,6 +6,8 @@ You can call me **Mr.Jin** || just **Jin**.
 
 I'm computer engineering student at **Hallym University**. Currently staying in 🇰🇷 **Chuncheon, South Korea**
 
+---
+
 ### What I use for programming
 
  **📚 Languages**
@@ -30,7 +32,7 @@ ___
   - AR
   - Android Application made by <img src = "https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=ffffff"/>
   - IOT (Internet of Things)
-
+---
 ### Working on projects
   - AR + App : [AR Map](https://github.com/Jin1751/ARmap)
   - IOT + App : [Plant Control](https://github.com/Jin1751/PlantControlKotlin)
