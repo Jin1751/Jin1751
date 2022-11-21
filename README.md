@@ -2,9 +2,9 @@
 
 Thanks for visiting my page!
 
-You can call me Mr.Jin || just Jin.
+You can call me **Mr.Jin** || just **Jin**.
 
-I'm computer engineering student at Hallym University. Currently staying in South Korea 🇰🇷 , Chuncheon
+I'm computer engineering student at **Hallym University**. Currently staying in 🇰🇷 **Chuncheon, South Korea**
 
 ### What I use for programming
 
