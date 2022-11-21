@@ -27,7 +27,10 @@ ___
 </div>
 
 ### Current Interest
-  
+  - VR
+  - AR
+  - Android Application
+  - IOT (Internet of Things)
 <!--
 **Jin1751/Jin1751** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
