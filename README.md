@@ -30,7 +30,7 @@ ___
 ### Current Interest
   - VR
   - AR
-  - Android Application made by <img src = "https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=ffffff"/>
+  - Android Applications made by <img src = "https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=ffffff"/>
   - IOT (Internet of Things)
 ---
 ### Working on projects
