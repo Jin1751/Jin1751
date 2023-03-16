@@ -4,7 +4,8 @@ Thanks for visiting my page!
 
 You can call me **Mr.Jin** || just **Jin**.
 
-I'm computer engineering student at **Hallym University**. Currently staying in 🇰🇷 **Chuncheon, South Korea**
+I'm computer engineering student at **Hallym University**. Currently staying in 🇰🇷 **Seoul, South Korea**
+Working In **NewTo** as a Unity Client Developer.
 
 ---
 
