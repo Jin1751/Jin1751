@@ -8,6 +8,8 @@ I have studied computer engineering at **Hallym University**. Staying in ğŸ‡°ğŸ‡
 
 I'm currently looking for a company to work.
 
+Conctact : cdmh9806@gmail.com
+
 ---
 
 ### What I use for programming
