@@ -35,7 +35,7 @@ ___
   - Android Applications made by <img src = "https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=ffffff"/>
   - IOT (Internet of Things)
 ---
-### Working on projects
+### Android App Projects
   - AR + App : [AR Map](https://github.com/Jin1751/ARmap)
   - AI + App : [Travel Lens](https://github.com/Jin1751/Travel_Eye)
 <!--
