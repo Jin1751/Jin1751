@@ -37,7 +37,7 @@ ___
 ---
 ### Working on projects
   - AR + App : [AR Map](https://github.com/Jin1751/ARmap)
-  - IOT + App : [Plant Control](https://github.com/Jin1751/PlantControlKotlin)
+  - AI + App : [Travel Lens](https://github.com/Jin1751/Travel_Eye)
 <!--
 **Jin1751/Jin1751** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
